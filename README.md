@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PromitR99
+- 👀 I’m interested in VLSI Designing and Embedded System Design
+- 🌱 I’m currently learning Embedded System Designing with Cyber Physical System approach for Structural Health Monitoring
+- 💞️ I’m looking to collaborate on Projects involving hardware implementations using Machine Learning Approach
+- 📫 You reach me using Email-ID's: pr18u10260@btech.nitdgp.ac.in or promitroy.1999@gmail.com
