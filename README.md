@@ -1,5 +1,5 @@
 - 👋 Hi, I am Promit Roy.
 - 👀 I’m interested in Hardware Design Domain: VLSI Design and Verification & Embedded System Design.
-- 🌱 I’m currently learning Embedded System Designing with Cyber Physical System approach for Structural Health Monitoring.
-- 💞️ I’m looking to collaborate on Projects involving hardware implementations using Machine Learning Approach.
+- 🌱 I’m currently learning Embedded System Designing with Cyber Physical System approach.
+- 💞️ I’m looking to collaborate on Projects involving hardware implementations using AI/ML.
 - 📫 You reach me with email: pr18u10260@btech.nitdgp.ac.in or promitroy.1999@gmail.com.
